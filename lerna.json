@@ -1,0 +1,19 @@
+{
+  "packages": [
+    "packages/freyja-poster"
+  ],
+  "command": {
+    "version": {
+      "allowBranch": [
+        "master"
+      ]
+    },
+    "create": {
+      "license": "MIT"
+    }
+
+  },
+  "version": "2.2.31",
+  "npmClient": "yarn",
+  "useWorkspaces": true
+}
